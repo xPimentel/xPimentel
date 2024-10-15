@@ -1,5 +1,5 @@
 <h2 align="left">✨ Hey, you, welcome to my profile ✨</h2>
-
+<img src="https://komarev.com/ghpvc/?username=xPimentel&color=red" alt="Profile views" /> 
 ###
 
 <p align="left">• My name is Pedro Pimentel and i'm a Python Developer, from ES, Brazil 🇧🇷</p>
