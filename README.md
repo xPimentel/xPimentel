@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">• My name is Pedro Pimentel and i'm a Python Developer, from ES, Brazil 🇧🇷</p>
+<p align="left">• Meu nome é Pedro Pimentel e eu sou desenvolvedor de software júnior Python & JavaScript, residente do estado do Espírito Santo (ES), Brazil 🇧🇷 (+55)</p>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I'm currently in the 7th period of my Systems Development Analysis degree and had prior exposure to programming through online courses before starting college. At present, I work outside of my field as a Business Intelligence Analyst at the Public Defender's Office of the State of Espírito Santo, Brazil, where I research the activities of public servants within the institution. As a result, I’m in the process of refreshing my skills and have already chosen the primary programming language I will specialize in.<br><br>Current experience mapping:<br><br>Basic Familiarity:</p>
+<p align="left">Graduado em Análise e Desenvolvimento de Sistemas com experiência em desenvolvimento de aplicações web, automação de processos e integração de soluções de IA. Especializado em Python e JavaScript, com foco em APIs REST e desenvolvimento de chatbots inteligentes.</p>
 
 ###
 
