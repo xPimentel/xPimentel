@@ -1,4 +1,4 @@
-<h2 align="left">✨ Hey, you, welcome to my profile ✨</h2>
+<h2 align="left">✨ OLÁ, SEJA BEM VINDO AO MEU PERFIL ✨</h2>
 <img src="https://komarev.com/ghpvc/?username=xPimentel&color=red" alt="Profile views" /> 
 
 ###
@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">Intermediate Knowledge and Utilities:</p>
+<p align="left">Conhecimento Intermediário:</p>
 
 ###
 
